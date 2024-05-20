@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas</h1>
+<h1 align="center">Hi 👋, I'm Serdal</h1>
 <h3 align="center">A passionate AI developer and Data Scientist from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdalaslantas&label=Profile%20views&color=0e75b6&style=flat" alt="serdalaslantas" /> </p>
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [www.medium.com/serdalaslantas](www.medium.com/serdalaslantas)
 
-- 💬 Ask me about **NLP,Generative AI, LLM's**
+- 💬 Ask me about **NLP,Generative AI, LLM's, Langchain , LlamaIndex **
 
 - 📫 How to reach me **aslantasserdal@gmail.com**
 
