@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serdalaslantas" alt="serdalaslantas" /></a> </p>
 
 
-- 🔭 I’m currently working on [Dejavu English Startup](www.dejavuenglish.com)
+- 🔭 I’m currently working on [Cibeeo Startup](www.cibeeo.com)
 
 - 📝 I regularly write articles on [www.medium.com/serdalaslantas](www.medium.com/serdalaslantas)
 
